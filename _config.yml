@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://xiniubook2008.github.io
+title: xiniu book
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: xiniubook2008
 simple_search: http://google.com/search
-description:
+description: book,publish
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
